@@ -1,4 +1,4 @@
-# Predicting STudent Performance: What really matters?
+# Predicting Student Performance: What really matters?
 
 The project explores the key factors influencing student exam performance and builds a machine learning model to predict whether a student is a high performer or not.
 The goal is not only to achieve high accuracy, but also to understand what truly drives academic success.
